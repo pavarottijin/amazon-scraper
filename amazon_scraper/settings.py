@@ -41,8 +41,7 @@ USER_AGENTS=[
 ]
 
 PROXIES = [
-            #"http://clps:clps@10.0.0.13:8511",
-            "http://clps:clps@pavarottijin.3322.org:8511",
+            "http://clps:clps@10.0.0.13:8511",
         ]
 PROXY_TEST_URL="https://www.baidu.com/"
 PROXY_BAN_SECONDS=600
